@@ -1,3 +1,4 @@
+//comment
 /**
  * Write a description of class ExampleClass here.
  * 
