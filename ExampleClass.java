@@ -1,4 +1,3 @@
-//Adding new comments to change the file
 /**
  * Write a description of class ExampleClass here.
  * 
