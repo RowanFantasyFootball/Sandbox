@@ -15,8 +15,6 @@ public class ExampleClass
      */
     public ExampleClass()
     {
-        // initialise instance variables
-        x = 0;
     }
 
     /**
