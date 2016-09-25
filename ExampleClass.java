@@ -25,9 +25,8 @@ public class ExampleClass
      * @param  y   a sample parameter for a method
      * @return     the sum of x and y 
      */
-    public int sampleMethod(int y)
+    public void sampleMethod()
     {
-        // put your code here
-        return x + y;
+        System.out.println("2nd sampleMethod update");
     }
 }
