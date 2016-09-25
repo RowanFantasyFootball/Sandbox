@@ -1,4 +1,4 @@
-Project: taxi-company-outline
+﻿Project: taxi-company-outline
 Authors: David J. Barnes and Michael Kölling
 
 This project is part of the material for chapter 14 of the book
@@ -24,3 +24,6 @@ How to start this project:
     add it to the vehicles collection. Then a passenger will have
     a taxi scheduled to pick them up. However, as vehicles do not
     yet move, they never will be picked up.
+
+
+Edit this readme.txt file
