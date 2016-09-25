@@ -9,4 +9,4 @@ PURPOSE OF PROJECT:
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
-USER INSTRUCTIONS: Use this to simulate a taxi company... given more details
+USER INSTRUCTIONS: 
